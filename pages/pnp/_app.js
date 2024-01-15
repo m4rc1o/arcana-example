@@ -1,7 +1,7 @@
 import '@styles/styles.css';
-import { getAuth } from '../auth/getArcanaAuth';
+import { getAuth } from "../../auth/getArcanaAuth";
 import { ProvideAuth } from '@arcana/auth-react';
-import Layout from '../components/layout';
+import Layout from "../../components/layout";
 import { Inter } from 'next/font/google';
 
 const inter = Inter({ subsets: ['latin'] });

@@ -8,12 +8,13 @@
     "post-update": "yarn upgrade --latest"
   },
   "dependencies": {
+    "@arcana/auth": "1.0.9-beta.1",
+    "@arcana/auth-react": "0.0.4-beta.1",
     "classnames": "2.3.2",
+    "ethers": "5.7",
     "next": "13.2.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "@arcana/auth": "1.0.9-beta.1",
-    "@arcana/auth-react": "0.0.4-beta.1"
+    "react-dom": "18.2.0"
   },
   "license": "MIT",
   "keywords": [],
